@@ -2,5 +2,5 @@
 
 ## Authors
 
-* Colin Rundel
-* John Doe
+* Colin W Rundel
+* John S Doe
