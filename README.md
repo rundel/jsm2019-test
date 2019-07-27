@@ -1,3 +1,6 @@
 # jsm2019-test
 
-Colin Rundel
+## Authors
+
+* Colin Rundel
+* John Doe
